@@ -1,0 +1,4 @@
+cron:
+- description: retry demo
+  url: /processfetch
+  schedule: every 10 mins
